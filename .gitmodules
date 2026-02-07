@@ -1,0 +1,3 @@
+[submodule "Renderer"]
+	path = Renderer
+	url = git@github.com:Smutekj/simple-emscripten-renderer.git
