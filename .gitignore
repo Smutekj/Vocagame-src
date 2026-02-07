@@ -1,0 +1,8 @@
+build*
+*.o
+*/build*
+*/node_modules
+.vscode
+*/.vscode
+Vocabular
+Renderer-backup

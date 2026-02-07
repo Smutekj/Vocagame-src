@@ -1,0 +1,250 @@
+{
+  "Texture": {
+    "Planet-9": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Planets/planet-9.png"
+    },
+    "Meteor": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Meteor.png"
+    },
+    "SnakeHead": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/SnakeHead.png"
+    },
+    "SnakeLink": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/SnakeLink.png"
+    },
+    "Flag_de": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Flags/Flag_de.png"
+    },
+    "Flag_en": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Flags/Flag_en.png"
+    },
+    "Flag_cz": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Flags/Flag_cz.png"
+    },
+    "Arrow": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Arrow.png"
+    },
+    "BrickWall": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/BrickWall.png"
+    },
+    "Coin": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Coin.png"
+    },
+    "EnemyShip": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/EnemyShip.png"
+    },
+    "FireNoise": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/FireNoise.png"
+    },
+    "Kleidung": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Kleidung.png"
+    },
+    "MetalBox1": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/MetalBox1.png"
+    },
+    "Noise": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Noise.png"
+    },
+    "PlayerShip": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/PlayerShip.png"
+    },
+    "Star": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Star.png"
+    },
+    "Station": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Station.png"
+    },
+    "StoneWall": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/StoneWall.png"
+    },
+    "TNT": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/TNT.png"
+    },
+    "Turrets": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Turrets.png"
+    },
+    "UIBack": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIBack.png"
+    },
+    "UIClose": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIClose.png"
+    },
+    "UIDot": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIDot.png"
+    },
+    "UIForward": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIForward.png"
+    },
+    "UIHeaderFrame": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIHeaderFrame.png"
+    },
+    "UIMenu": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIMenu.png"
+    },
+    "UIOk": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIOk.png"
+    },
+    "UIShopFrame": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/UIShopFrame.png"
+    },
+    "Werkzeug": {
+      "options": {"wrap_x": 1, "wrap_y": 1},
+      "path": "Textures/Werkzeug.png"
+    },
+    "Space": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Backgrounds/Space.png"
+    },
+    "PaperVintage": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Backgrounds/PaperVintage.jpg"
+    },
+    "SkyNight1": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Backgrounds/SkyNight1.png"
+    },
+    "SkyNight2": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Backgrounds/SkyNight2.png"
+    },
+    "SkySunset1": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Backgrounds/SkySunset1.png"
+    },
+    "SkySunset2": {
+      "options": {"wrap_x": 0, "wrap_y": 0},
+      "path": "Textures/Backgrounds/SkySunset2.png"
+    }
+  },
+  "Font":
+  {
+    "TahomaSmall":{
+        "size": 12,
+        "path":"Fonts/Tahoma.ttf" 
+    },
+    "Tahoma":{
+        "size": 22,
+        "path":"Fonts/Tahoma.ttf" 
+    }    
+  },
+  "Sound":
+  {
+    "ElectroShock1":{
+        "volume": 100,
+        "path": "Sounds/ElectroShock1.wav"
+    },
+    "EnergyShot1":{
+      "volume": 100,
+      "path": "Sounds/EnergyShot1.wav"
+    },
+    "EnergyShot2":{
+      "volume": 100,
+      "path": "Sounds/EnergyShot2.wav"
+    },
+    "Explosion1":{
+        "volume": 100,
+        "path": "Sounds/Explosion1.wav"
+    },
+    "Explosion2":{
+      "volume": 100,
+      "path": "Sounds/Explosion2.wav"
+    },
+    "CountTick":{
+        "volume": 100,
+        "path": "Sounds/CountTick.wav"
+    },
+    "UpShort":{
+        "volume": 100,
+        "path": "Sounds/UpShort.wav"
+    },
+    "JumpShort":{
+        "volume": 100,
+        "path": "Sounds/JumpShort.wav"
+    },"WrongWord":{
+        "volume": 100,
+        "path": "Sounds/WrongWord.wav"
+    },
+    "WordCorrect1":{
+        "volume": 100,
+        "path": "Sounds/WordCorrect1.wav"
+    },
+    "WordCorrect2":{
+        "volume": 100,
+        "path": "Sounds/WordCorrect2.wav"
+    },"Kick":{
+        "volume": 100,
+        "path": "Sounds/Kick.wav"
+    },"LevelCompleted1":{
+        "volume": 100,
+        "path": "Sounds/LevelCompleted1.wav"
+    }
+  },
+  "Atlas":
+  {
+    "Kitchen":{
+        "path": "Textures/Atlases/Kitchen.png",
+        "json_path": "Textures/Atlases/Kitchen.json"
+    },
+    "Kleidung":{
+        "path": "Textures/Atlases/Kleidung.png",
+        "json_path": "Textures/Atlases/Kleidung.json"
+    },
+    "FruitsAndVegetables":{
+        "path": "Textures/Atlases/FruitsAndVegetables.png",
+        "json_path": "Textures/Atlases/FruitsAndVegetables.json"
+    },
+    "Werkzeug":{
+        "path": "Textures/Atlases/Werkzeug.png",
+        "json_path": "Textures/Atlases/Werkzeug.json"
+    },
+    "Tools2":{
+        "path": "Textures/Atlases/Tools2.png",
+        "json_path": "Textures/Atlases/Tools2.json"
+    },
+    "HumanBody_0":{
+        "path": "Textures/Atlases/HumanBody_0.png",
+        "json_path": "Textures/Atlases/HumanBody_0.json"
+    },
+    "HumanBody_1":{
+        "path": "Textures/Atlases/HumanBody_1.png",
+        "json_path": "Textures/Atlases/HumanBody_1.json"
+    },
+    "BlueExplosion":{
+        "path": "Textures/Animations/BlueExplosion.png",
+        "json_path": "Textures/Animations/BlueExplosion.json"
+    },
+    "PurpleExplosion":{
+        "path": "Textures/Animations/PurpleExplosion.png",
+        "json_path": "Textures/Animations/PurpleExplosion.json"
+    }
+  }
+}

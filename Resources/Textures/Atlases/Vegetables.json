@@ -1,0 +1,365 @@
+{
+  "frames": [
+    {
+      "filename": "broccoli",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "carrot",
+      "frame": {
+        "x": 212,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "eggplant",
+      "frame": {
+        "x": 423,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "garlic",
+      "frame": {
+        "x": 634,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "beans",
+      "frame": {
+        "x": 845,
+        "y": 1,
+        "w": 200,
+        "h": 177
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "lettuce",
+      "frame": {
+        "x": 1,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "mushroom",
+      "frame": {
+        "x": 212,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "olives",
+      "frame": {
+        "x": 423,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "onion",
+      "frame": {
+        "x": 634,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bell pepper",
+      "frame": {
+        "x": 845,
+        "y": 203,
+        "w": 200,
+        "h": 177
+      },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "potato",
+      "frame": {
+        "x": 1,
+        "y": 383,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "rice",
+      "frame": {
+        "x": 212,
+        "y": 383,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "corn",
+      "frame": {
+        "x": 423,
+        "y": 383,
+        "w": 206,
+        "h": 184
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 206,
+        "h": 184
+      },
+      "sourceSize": {
+        "w": 206,
+        "h": 184
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "chili",
+      "frame": {
+        "x": 631,
+        "y": 383,
+        "w": 196,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 196,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 196,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Vegetables.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1023,
+      "h": 573
+    },
+    "scale": 1
+  }
+}

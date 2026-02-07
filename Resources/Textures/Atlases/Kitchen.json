@@ -1,0 +1,540 @@
+{
+  "frames": [
+    {
+      "filename": "oveb",
+      "frame": {
+        "x": 0.5,
+        "y": 0.5,
+        "w": 200,
+        "h": 282.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 282.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 282.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "colander",
+      "frame": {
+        "x": 201.5,
+        "y": 0.5,
+        "w": 200,
+        "h": 98.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 98.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 98.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cuttingboard",
+      "frame": {
+        "x": 201.5,
+        "y": 100,
+        "w": 200,
+        "h": 94
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 94
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 94
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "fork",
+      "frame": {
+        "x": 201.5,
+        "y": 195,
+        "w": 200,
+        "h": 141.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 141.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 141.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "fridge",
+      "frame": {
+        "x": 402.5,
+        "y": 0.5,
+        "w": 153,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 153,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 153,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "kettle",
+      "frame": {
+        "x": 0.5,
+        "y": 284,
+        "w": 200,
+        "h": 158.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 158.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 158.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "knife",
+      "frame": {
+        "x": 0.5,
+        "y": 443.5,
+        "w": 200,
+        "h": 98
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 98
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 98
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "ladle",
+      "frame": {
+        "x": 201.5,
+        "y": 337.5,
+        "w": 200,
+        "h": 185.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 185.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 185.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "mortar",
+      "frame": {
+        "x": 556.5,
+        "y": 0.5,
+        "w": 200,
+        "h": 172.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 172.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 172.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "plate",
+      "frame": {
+        "x": 556.5,
+        "y": 174,
+        "w": 200,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pot",
+      "frame": {
+        "x": 402.5,
+        "y": 375,
+        "w": 200,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 165
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "scales",
+      "frame": {
+        "x": 201.5,
+        "y": 524,
+        "w": 165.5,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 165.5,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 165.5,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "sieve",
+      "frame": {
+        "x": 0.5,
+        "y": 542.5,
+        "w": 200,
+        "h": 53
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 53
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 53
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "sink",
+      "frame": {
+        "x": 0.5,
+        "y": 596.5,
+        "w": 200,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 129
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "stove",
+      "frame": {
+        "x": 368,
+        "y": 541,
+        "w": 200,
+        "h": 135.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 135.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 135.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "tongs",
+      "frame": {
+        "x": 368,
+        "y": 677.5,
+        "w": 200,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 76
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "woodenspoon",
+      "frame": {
+        "x": 757.5,
+        "y": 0.5,
+        "w": 200,
+        "h": 186.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 186.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 186.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "mittens",
+      "frame": {
+        "x": 757.5,
+        "y": 188,
+        "w": 178,
+        "h": 195.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 195.5
+      },
+      "sourceSize": {
+        "w": 178,
+        "h": 195.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "grater",
+      "frame": {
+        "x": 603.5,
+        "y": 375,
+        "w": 140,
+        "h": 195
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 140,
+        "h": 195
+      },
+      "sourceSize": {
+        "w": 140,
+        "h": 195
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "salt",
+      "frame": {
+        "x": 569,
+        "y": 571,
+        "w": 186.5,
+        "h": 194.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 186.5,
+        "h": 194.5
+      },
+      "sourceSize": {
+        "w": 186.5,
+        "h": 194.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pepper",
+      "frame": {
+        "x": 744.5,
+        "y": 384.5,
+        "w": 136.5,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 136.5,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 136.5,
+        "h": 181
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Kitchen.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 958,
+      "h": 766
+    },
+    "scale": 0.5
+  }
+}

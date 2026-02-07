@@ -1,0 +1,390 @@
+{
+  "frames": [
+    {
+      "filename": "grapes",
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "kiwi",
+      "frame": {
+        "x": 1,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "lemon",
+      "frame": {
+        "x": 212,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "mango",
+      "frame": {
+        "x": 212,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "orange",
+      "frame": {
+        "x": 1,
+        "y": 383,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "peach",
+      "frame": {
+        "x": 212,
+        "y": 383,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pear",
+      "frame": {
+        "x": 423,
+        "y": 1,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pineapple",
+      "frame": {
+        "x": 423,
+        "y": 192,
+        "w": 209,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 209,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 209,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "coconut",
+      "frame": {
+        "x": 1,
+        "y": 574,
+        "w": 215,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 215,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 215,
+        "h": 178
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "chestnut",
+      "frame": {
+        "x": 423,
+        "y": 383,
+        "w": 210,
+        "h": 181
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 210,
+        "h": 181
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 181
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "apple",
+      "frame": {
+        "x": 634,
+        "y": 1,
+        "w": 194,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 187
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "banana",
+      "frame": {
+        "x": 634,
+        "y": 190,
+        "w": 194,
+        "h": 187
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 194,
+        "h": 187
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 187
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "blueberries",
+      "frame": {
+        "x": 635,
+        "y": 379,
+        "w": 200,
+        "h": 177
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 177
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 177
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "cherry",
+      "frame": {
+        "x": 635,
+        "y": 558,
+        "w": 184,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 184,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 184,
+        "h": 189
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "avocado",
+      "frame": {
+        "x": 423,
+        "y": 566,
+        "w": 188,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 167
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Fruits.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 836,
+      "h": 753
+    },
+    "scale": 1
+  }
+}

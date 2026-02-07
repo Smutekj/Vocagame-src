@@ -1,0 +1,24 @@
+{
+	"frames":[
+		{"filename":"dieZange","frame":{"x":0,"y":0,"w":147,"h":171},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":147,"h":171},"sourceSize":{"w":147,"h":171}},
+		{"filename":"dieSäge","frame":{"x":148,"y":0,"w":196,"h":169},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":196,"h":169},"sourceSize":{"w":196,"h":169}},
+		{"filename":"derSchraubenzieher","frame":{"x":345,"y":0,"w":173,"h":169},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":173,"h":169},"sourceSize":{"w":173,"h":169}},
+		{"filename":"dieWasserwaage","frame":{"x":0,"y":172,"w":162,"h":169},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":162,"h":169},"sourceSize":{"w":162,"h":169}},
+		{"filename":"derNagel","frame":{"x":163,"y":172,"w":102,"h":165},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":102,"h":165},"sourceSize":{"w":102,"h":165}},
+		{"filename":"derHammer","frame":{"x":266,"y":172,"w":143,"h":164},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":143,"h":164},"sourceSize":{"w":143,"h":164}},
+		{"filename":"dieMutter","frame":{"x":410,"y":172,"w":153,"h":162},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":153,"h":162},"sourceSize":{"w":153,"h":162}},
+		{"filename":"derSchraubenSchlüssel","frame":{"x":0,"y":342,"w":157,"h":156},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":157,"h":156},"sourceSize":{"w":157,"h":156}},
+		{"filename":"dieSchraube","frame":{"x":158,"y":342,"w":94,"h":152},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":94,"h":152},"sourceSize":{"w":94,"h":152}},
+		{"filename":"dasMaßband","frame":{"x":253,"y":342,"w":174,"h":148},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":174,"h":148},"sourceSize":{"w":174,"h":148}},
+		{"filename":"dieBohrmaschine","frame":{"x":0,"y":499,"w":216,"h":141},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":216,"h":141},"sourceSize":{"w":216,"h":141}},
+		{"filename":"dasSeil","frame":{"x":217,"y":499,"w":217,"h":111},"rotated":"false","trimmed":"false","spriteSourceSize":{"x":0,"y":0,"w":217,"h":111},"sourceSize":{"w":217,"h":111}}
+	],
+	"meta":{
+		"app":"https://github.com/BdR76/GimpSpriteAtlas/",
+		"version":"GIMP SpriteAtlas plug-in v0.3",
+		"author":"Bas de Reuver",
+		"image":"Werkzeug.png",
+		"size":{"w":563,"h":640},
+		"scale":1
+	}
+}

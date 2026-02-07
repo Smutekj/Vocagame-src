@@ -1,0 +1,640 @@
+{
+  "frames": [
+    {
+      "filename": "eyes",
+      "frame": {
+        "x": 0.5,
+        "y": 0.5,
+        "w": 199.5,
+        "h": 72.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199.5,
+        "h": 72.5
+      },
+      "sourceSize": {
+        "w": 199.5,
+        "h": 72.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "foot",
+      "frame": {
+        "x": 201,
+        "y": 0.5,
+        "w": 204,
+        "h": 122.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 204,
+        "h": 122.5
+      },
+      "sourceSize": {
+        "w": 204,
+        "h": 122.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "ear",
+      "frame": {
+        "x": 406,
+        "y": 0.5,
+        "w": 188,
+        "h": 127.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 188,
+        "h": 127.5
+      },
+      "sourceSize": {
+        "w": 188,
+        "h": 127.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "kidney",
+      "frame": {
+        "x": 595,
+        "y": 0.5,
+        "w": 200,
+        "h": 141.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 141.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 141.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "liver",
+      "frame": {
+        "x": 796,
+        "y": 0.5,
+        "w": 200,
+        "h": 145.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 145.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 145.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "lungs",
+      "frame": {
+        "x": 0.5,
+        "y": 74,
+        "w": 199,
+        "h": 166
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 199,
+        "h": 166
+      },
+      "sourceSize": {
+        "w": 199,
+        "h": 166
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "ears",
+      "frame": {
+        "x": 200.5,
+        "y": 129,
+        "w": 212.5,
+        "h": 146.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 212.5,
+        "h": 146.5
+      },
+      "sourceSize": {
+        "w": 212.5,
+        "h": 146.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "shoulders",
+      "frame": {
+        "x": 414,
+        "y": 143,
+        "w": 226,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 226,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 226,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "lips",
+      "frame": {
+        "x": 641,
+        "y": 147,
+        "w": 200,
+        "h": 166.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 166.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 166.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "hair",
+      "frame": {
+        "x": 842,
+        "y": 147,
+        "w": 113,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 113,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 113,
+        "h": 190
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "heart",
+      "frame": {
+        "x": 0.5,
+        "y": 241,
+        "w": 151,
+        "h": 192.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 151,
+        "h": 192.5
+      },
+      "sourceSize": {
+        "w": 151,
+        "h": 192.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "toes",
+      "frame": {
+        "x": 152.5,
+        "y": 276.5,
+        "w": 223.5,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 223.5,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 223.5,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "brain",
+      "frame": {
+        "x": 377,
+        "y": 304,
+        "w": 200,
+        "h": 176
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 176
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 176
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "elbow",
+      "frame": {
+        "x": 578,
+        "y": 314.5,
+        "w": 216,
+        "h": 181.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 181.5
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 181.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "fingers",
+      "frame": {
+        "x": 795,
+        "y": 338,
+        "w": 216,
+        "h": 181.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 216,
+        "h": 181.5
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 181.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bone",
+      "frame": {
+        "x": 0.5,
+        "y": 434.5,
+        "w": 116.5,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 116.5,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 116.5,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "thumb",
+      "frame": {
+        "x": 118,
+        "y": 448.5,
+        "w": 220,
+        "h": 192
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 220,
+        "h": 192
+      },
+      "sourceSize": {
+        "w": 220,
+        "h": 192
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "nose",
+      "frame": {
+        "x": 339,
+        "y": 481,
+        "w": 229.5,
+        "h": 193.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 229.5,
+        "h": 193.5
+      },
+      "sourceSize": {
+        "w": 229.5,
+        "h": 193.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "ankle",
+      "frame": {
+        "x": 569.5,
+        "y": 497,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "sourceSize": {
+        "w": 223.5,
+        "h": 196.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "arm",
+      "frame": {
+        "x": 794,
+        "y": 520.5,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "sourceSize": {
+        "w": 223.5,
+        "h": 196.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "back",
+      "frame": {
+        "x": 0.5,
+        "y": 641.5,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "sourceSize": {
+        "w": 223.5,
+        "h": 196.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "belly",
+      "frame": {
+        "x": 225,
+        "y": 675.5,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 223.5,
+        "h": 196.5
+      },
+      "sourceSize": {
+        "w": 223.5,
+        "h": 196.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "skull",
+      "frame": {
+        "x": 449.5,
+        "y": 694.5,
+        "w": 200,
+        "h": 196.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 196.5
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 196.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "stomach",
+      "frame": {
+        "x": 650.5,
+        "y": 718,
+        "w": 162,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 162,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 162,
+        "h": 199
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "muscle",
+      "frame": {
+        "x": 813.5,
+        "y": 718,
+        "w": 200,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 200,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 200,
+        "h": 200
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "HumanBody_0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1018,
+      "h": 919
+    },
+    "scale": 0.5
+  }
+}

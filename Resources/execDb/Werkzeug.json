@@ -1,0 +1,277 @@
+{
+  "Werkzeug": [
+    {
+      "meaning_id": "hammer",
+      "correct_word": "der Hammer",
+      "translation": "Kladivo",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "nail",
+      "correct_word": "der Nagel",
+      "translation": "Hřebík",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "screw",
+      "correct_word": "die Schraube",
+      "translation": "Šroub",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "screwdriver",
+      "correct_word": "der Schraubenzieher",
+      "translation": "Šroubovák",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "saw",
+      "correct_word": "die Säge",
+      "translation": "Pila",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "file",
+      "correct_word": "die Feile",
+      "translation": "Pilník",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "axe",
+      "correct_word": "die Axt",
+      "translation": "Sekera",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "drill",
+      "correct_word": "die Bohrmaschine",
+      "translation": "Vrtačka",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "pliers",
+      "correct_word": "die Zange",
+      "translation": "Kleště",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "scissors",
+      "correct_word": "die Schere",
+      "translation": "Nůžky",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "knife",
+      "correct_word": "das Messer",
+      "translation": "Nůž",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "measuringband",
+      "correct_word": "das Maßband",
+      "translation": "Metr",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "ruler",
+      "correct_word": "das Lineal",
+      "translation": "Pravítko",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "angle",
+      "correct_word": "der Winkel",
+      "translation": "Úhelník",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "solderingiron",
+      "correct_word": "der Lötkolben",
+      "translation": "Pájka",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "prybar",
+      "correct_word": "die Brechstange",
+      "translation": "Páčidlo",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "shovel",
+      "correct_word": "die Schaufel",
+      "translation": "Lopata",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "bucket",
+      "correct_word": "der Eimer",
+      "translation": "Kýbl",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "brush",
+      "correct_word": "die Bürste",
+      "translation": "Kartáč",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "sponge",
+      "correct_word": "der Schwamm",
+      "translation": "Houba",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "clamp",
+      "correct_word": "die Klammer",
+      "translation": "Svorka",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "pump",
+      "correct_word": "die Pumpe",
+      "translation": "Pumpa",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "trowel",
+      "correct_word": "die Kelle",
+      "translation": "Hladítko",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "spoon",
+      "correct_word": "der Löffel",
+      "translation": "Lžíce",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "tweezers",
+      "correct_word": "die Pinzette",
+      "translation": "Pinzeta",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "ladder",
+      "correct_word": "die Leiter",
+      "translation": "Žebřík",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "lamp",
+      "correct_word": "die Lampe",
+      "translation": "Lampa",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "wire",
+      "correct_word": "der Draht",
+      "translation": "Drát",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "rope",
+      "correct_word": "das Seil",
+      "translation": "Lano",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "chain",
+      "correct_word": "die Kette",
+      "translation": "Řetěz",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "steel",
+      "correct_word": "das Stahl",
+      "translation": "Ocel",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "comb",
+      "correct_word": "der Kamm",
+      "translation": "Hřebínek",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "brush",
+      "correct_word": "der Pinsel",
+      "translation": "Štětec",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "color",
+      "correct_word": "die Farbe",
+      "translation": "Barva",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "bucket",
+      "correct_word": "der Eimer",
+      "translation": "Vědro",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "broom",
+      "correct_word": "der Besen",
+      "translation": "Smeták",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "needle",
+      "correct_word": "die Nadel",
+      "translation": "Jehla",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "sewingmachine",
+      "correct_word": "die Nähmaschine",
+      "translation": "Šicí stroj",
+      "image_src": null,
+      "score": 0
+    },
+    {
+      "meaning_id": "nut",
+      "correct_word": "die Mutter",
+      "translation": "Matka",
+      "image_src": null,
+      "score": 0
+    }
+  ]
+}

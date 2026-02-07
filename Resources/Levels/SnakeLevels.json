@@ -1,0 +1,198 @@
+{
+  "Level0": {
+    "bounds": [225, 200, 800, 800],
+    "level_size": [1200, 1200],
+    "named_points": {"origin": [0, 0], "start": [425, 375]},
+    "objects": [
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [275, 625],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [50, 100],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [975, 625],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [50, 100],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [625, 600],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [50, 300],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [375, 975],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [300, 50],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [875, 975],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [300, 50],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [375, 225],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [300, 50],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [875, 225],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [300, 50],
+        "vel": [0, 0]
+      }
+    ],
+    "origin": [0, 0]
+  },
+  "Level1": {
+    "bounds": [200, 200, 800, 800],
+    "level_size": [1200, 1200],
+    "named_points": {"origin": [0, 0], "start": [325, 125]},
+    "objects": [
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [225, 825],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [50, 350],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [975, 375],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [50, 350],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [775, 875],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [250, 50],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [425, 325],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [250, 50],
+        "vel": [0, 0]
+      },
+      {
+        "angle": 0,
+        "max_acc": 250,
+        "max_speed": 70,
+        "obj_type": "Wall",
+        "pos": [600, 600],
+        "s_sprite": {
+          "shader_id": "",
+          "tex_rect": [1143111680, 0, 1065353216, 0],
+          "tex_size": [1050253722, 1065353216],
+          "texture_id": "BrickWall"
+        },
+        "size": [100, 100],
+        "vel": [0, 0]
+      }
+    ],
+    "origin": [0, 0]
+  }
+}

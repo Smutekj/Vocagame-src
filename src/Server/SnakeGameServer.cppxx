@@ -1,0 +1,167 @@
+#include "SnakeGameServer.h"
+
+#include "Utils/RandomTools.h"
+
+#include "Systems/SpriteSystem.h"
+#include "Systems/TimedEventSystem.h"
+
+#include "Assets.h"
+#include "Texts.h"
+
+
+TextRect &SnakeGameServer::generateWord2(bool is_correct, utils::Vector2f pos, utils::Vector2f size)
+{
+    TextRect::Spec spec;
+    spec.text = "Penis";
+    spec.correct_form = "Schlong";
+    spec.translation = is_correct ? "Schlong" : "Kokot";
+    spec.pos = pos;
+    spec.size = size;
+    auto &word = static_cast<TextRect &>(m_world.createObject(spec));
+
+    return word;
+};
+
+void sendSnakePositions(PostOffice &messenger, std::unordered_map<std::size_t, std::shared_ptr<Snake>>& snakes)
+{
+
+    nlohmann::json msg = {};
+    msg["type"] = "snakes";
+    msg["objects"] = {};
+    for (const auto [client_id, obj_p] : snakes)
+    {
+        nlohmann::json obj_msg;
+        obj_msg = {};
+        obj_msg["client_id"] = client_id;
+        obj_msg["pos"] = {obj_p->getPosition().x, obj_p->getPosition().y};
+        obj_msg["angle"] = obj_p->getAngle();
+        obj_msg["dir"] = obj_p->dir;
+        obj_msg["id"] = obj_p->getId();
+        msg["objects"].push_back(obj_msg);
+    }
+    messenger.send(msg);
+}
+void sendWorldState(PostOffice &messenger, GameWorld &world)
+{
+    auto &entities = world.getEntities();
+
+    nlohmann::json msg = {};
+    msg["type"] = "world";
+    msg["objects"] = {};
+    for (const auto &obj_p : entities.data())
+    {
+        nlohmann::json obj_msg;
+        obj_msg = {};
+        obj_msg["type"] = static_cast<int>(obj_p->getType());
+        obj_msg["pos"] = {obj_p->getPosition().x, obj_p->getPosition().y};
+        obj_msg["size"] = {obj_p->getPosition().x, obj_p->getPosition().y};
+        if (obj_p->getType() == TypeId::TextBubble)
+        {
+            obj_msg["correct"] = static_cast<TextRect &>(*obj_p).isCorrect();
+        }
+
+        msg["objects"].push_back(obj_msg);
+    }
+    messenger.send(msg);
+}
+void sendWordCreatedEvent(PostOffice &messenger, utils::Vector2f pos, utils::Vector2f size, bool correct)
+{
+    nlohmann::json msg;
+    msg["type"] = "object-created";
+    msg["spec"] = {};
+    msg["spec"]["type"] = static_cast<int>(TypeId::TextRect);
+    msg["spec"]["pos"] = {pos.x, pos.y};
+    msg["spec"]["size"] = {size.x, size.y};
+    msg["spec"]["correct"] = correct;
+
+    messenger.send(msg);
+}
+
+SnakeGameServer::SnakeGameServer(PostOffice &messenger)
+    : m_messenger(messenger),
+      m_pos_generator(messenger, {50.f, 30.f}, {800.f, 800.f}),
+      m_world(m_messenger)
+{
+
+    m_timers.addInfiniteEvent([this](float t, int c)
+                              {
+                                  TextRect::Spec s;
+                                  bool is_correct = randi(0, 2);
+
+                                  auto &word = m_world.createObject(s);
+                                  m_pos_generator.generateFreePos(word);
+                                  sendWordCreatedEvent(m_messenger, word.getPosition(), word.getSize(), is_correct); },
+                              3.5f, 0.f);
+    registerSystems();
+}
+
+void SnakeGameServer::registerSystems()
+{
+    auto &colllider = m_world.getCollisionSystem();
+    colllider.registerResolver(ObjectType::Bullet, ObjectType::TextBubble);
+    colllider.registerResolver(ObjectType::Snake, ObjectType::TextBubble);
+    colllider.registerResolver(ObjectType::Snake, ObjectType::Wall);
+
+    auto &systems = m_world.m_systems;
+    systems.registerSystem(std::make_shared<TransformSystem>(systems.getComponents<TransformComponent>()));
+    systems.registerSystem(std::make_shared<TimedEventSystem>(systems.getComponents<TimedEventComponent>()));
+}
+
+void SnakeGameServer::update(std::uint64_t time_stamp)
+{
+    double dt = (time_stamp - m_old_time_stamp) * 1e-6;
+    m_old_time_stamp = time_stamp;
+    m_world.update(dt);
+    m_timers.update(dt);
+    
+    sendSnakePositions(m_messenger, m_snakes);
+}
+void SnakeGameServer::draw(LayersHolder &layers, Assets &assets, Renderer &window_canvas, View view)
+{
+    m_world.draw(layers, assets, window_canvas, view);
+}
+
+void SnakeGameServer::broadCastEvent(SnakeClientEvent event)
+{
+}
+void SnakeGameServer::handleSocketEvent(std::size_t client_id, SnakeClientEvent event)
+{
+    if (event.type == "client-started")
+    {
+        sendWorldState(m_messenger, m_world);
+    }
+    if (event.type == "client-ready")
+    {
+        m_snake = std::static_pointer_cast<Snake>(m_world.insertObject([client_id, this](int ent_id)
+                                                                       {
+        std::cout << "Snake Created at time: " << m_old_time_stamp*1e-6 << " s";
+        assert(m_snakes.count(client_id) == 0);
+        Snake::Spec spec;
+        spec.pos = {200, 200};
+        spec.size= {50, 50};
+        spec.time = m_old_time_stamp * 1e-6;
+        auto new_snake = std::make_shared<Snake>(m_world, spec, ent_id); 
+        m_snakes[client_id] = new_snake;
+        return new_snake; }));
+
+        nlohmann::json msg;
+        msg["type"] = "game-started";
+        m_messenger.send(msg);
+    }
+    if (event.type == "client-connected")
+    {
+        return;
+    }
+    if (m_snakes.count(client_id) == 0)
+    {
+        return;
+    }
+
+
+    auto &client_snake = m_snakes.at(client_id);
+    client_snake->onEvent(event);
+    if(event.type == "control")
+    {
+        // sendSnakePositions(m_messenger, m_snakes);
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "en": {
+        "Jump": {
+            "ControlsPC": "Move with WASD, jump with SPACE.",
+            "ControlsMobile": "Move by pushing arrows, jump by clicking the right side of the screen",
+            "Intro": "Jump as high as you can before time runs out! You can only jump on words, that are correctly translated.",
+            "Lives": "Lives",
+            "Correct": "Correct"
+        },
+        "Castle": {
+            "ControlsPC": "Move with WASD, jump with SPACE.",
+            "ControlsMobile": "Move by pushing arrows, jump by clicking the right side of the screen",
+            "Intro": "Move throught the castle while collecting correctly translated word pairs."
+        },
+        "Dodge": {
+            "ControlsPC": "Move with WASD, jump with SPACE.",
+            "ControlsMobile": "Move by pushing arrows, jump by clicking the right side of the screen",
+            "Intro": "Catch all correctly trasnalted word pairs. If you hit an incorrectly translated word, you lose a life!"
+        },
+        "Snake": {
+            "ControlsPC": "Turn with AD or left and right arrows. Shoot with Left CTRL.",
+            "ControlsMobile": "Turn with arrows on the screen. Shoot by clicking right side of the screen.",
+            "Intro": "Collect as many correctly translated words. Shoot incorrect pairs before you hit them. Also do not eat your tail."
+        },
+        "Dungeon": {
+            "ControlsPC": "Turn with AD or left and right arrows. Shoot with Left CTRL.",
+            "ControlsMobile": "Turn with arrows on the screen. Shoot by clicking right side of the screen.",
+            "Intro": "Collect as many correctly translated words. Shoot incorrect pairs before you hit them. Also do not eat your tail."
+        }
+    },
+    "cz": {
+        "Jump": {
+            "ControlsPC": "Pohyb je pomocí WASD nebo šipek, skáče se mezerníkem",
+            "ControlsMobile": "Pohybujte se pomocí šipek na obrazovce, skáče se dotykem pravé části obrazovky",
+            "Intro": "Dostaňte se co nejvýš! Skákat můžete pouze na správně přeložená slova. Pokud skočíte na špatně přeloženou dvojici, ztratíte život!",
+            "Lives": "Životy",
+            "Correct": "Správně"
+        },
+        "Castle": {
+            "ControlsPC": "Pohyb je pomocí WASD nebo šipek, skáče se mezerníkem",
+            "ControlsMobile": "Pohybujte se pomocí šipek na obrazovce, skáče se dotykem pravé části obrazovky",
+            "Intro": "Proskákejte co nejvíc místností. Po cestě posbírejte co nejvíce správně přeložených slov. Dotykem špatně přeložené dvojice ztratíte život!"
+        },
+        "Dodge": {
+            "ControlsPC": "Pohyb je pomocí WASD nebo šipek, skáče se mezerníkem",
+            "ControlsMobile": "Pohybujte se pomocí šipek na obrazovce, skáče se dotykem pravé části obrazovky",
+            "Intro": "Posbírejte co nejvíce správně přeložených slov než zmizí! Pokud se dotknete špatně přeložené dvojice, ztratíte život!"
+        },
+        "Snake": {
+            "ControlsPC": "Zatáčíte pomocí AD nebo šipek. Levý CTRL střílí.",
+            "ControlsMobile": "Zatáčíte pomocí šipek na obrazovce, střílí se kliknutím na pravou stranu obrazovky",
+            "Intro": "Posbírejte co nejvíce správně přeložených slov než zmizí. Špatné dvojice sestřelte než do nich narazíte!"
+        },
+        "Dungeon": {
+            "ControlsPC": "Turn with AD or left and right arrows. Shoot with Left CTRL.",
+            "ControlsMobile": "Turn with arrows on the screen. Shoot by clicking right side of the screen.",
+            "Intro": "Collect as many correctly translated words. Shoot incorrect pairs before you hit them. Also do not eat your tail."
+        }
+    }
+}

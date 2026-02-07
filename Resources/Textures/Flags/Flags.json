@@ -1,0 +1,90 @@
+{
+  "frames": [
+    {
+      "filename": "Flag_cz",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 106.5
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 106.5
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 106.5
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Flag_de",
+      "frame": {
+        "x": 0,
+        "y": 106.5,
+        "w": 160,
+        "h": 96
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 96
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "Flag_en",
+      "frame": {
+        "x": 0,
+        "y": 202.5,
+        "w": 160,
+        "h": 80
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 160,
+        "h": 80
+      },
+      "sourceSize": {
+        "w": 160,
+        "h": 80
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "Kleidung.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 160,
+      "h": 283
+    },
+    "scale": 0.5
+  }
+}
